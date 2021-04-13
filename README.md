@@ -1,2 +1,2 @@
 # sql
-Query coursework
+Business Database and Database Marketing using SQL
