@@ -1,2 +1,2 @@
 # sql
-Business Database and Database Marketing using SQL
+Business Database Design and Database Marketing Assignments using SQL.
